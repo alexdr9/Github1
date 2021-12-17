@@ -4,3 +4,5 @@ print("Hello GitHub")
 
 # connection successful
 
+name = input("Hello, please enter your name: ")
+print("Hello " + name)
