@@ -6,3 +6,5 @@ print("Hello GitHub")
 
 name = input("Hello, please enter your name: ")
 print("Hello " + name)
+
+# code successful
